@@ -2,4 +2,5 @@ Belajar Javascript
 - Algoritma Javascript
 - Logika Javascript
 - If Else
-- Sintaks Javascript
+- Membuat Function
+- Membuat Class
